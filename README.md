@@ -3,8 +3,6 @@
 
 - 🌱 Atualmente estou aprendendo **Kotlin e Java**
 
-- 💬 Me pergunte sobre **SQL,Power BI,Excel e Python**
-
 - 📄 Experiências profissionais [https://www.linkedin.com/in/t%C3%A2nia-trindade-70a035122/](https://www.linkedin.com/in/t%C3%A2nia-trindade-70a035122/)
 
 <div align="center">
