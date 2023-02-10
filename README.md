@@ -1,10 +1,6 @@
 <h1 align="center">Oiii!! 👋, Eu sou a Tânia Trindade</h1>
 <h3 align="center">Aprenda uma nova linguagem que o faça pensar de uma maneira diferente</h3>
 
-- 🌱 Atualmente estou aprendendo **Kotlin e Java**
-
-- 📄 Experiências profissionais [https://www.linkedin.com/in/t%C3%A2nia-trindade-70a035122/](https://www.linkedin.com/in/t%C3%A2nia-trindade-70a035122/)
-
 <div align="center">
   <a href="https://github.com/tania-tna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tania-tna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
